@@ -1,4 +1,4 @@
-# Fourth year project Neck Posture Monitoring
+# Fourth Year Project Neck Posture Monitoring
 ### Team members 
 - Arushan Sinnadurai
 - Nelson Su
