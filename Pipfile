@@ -6,9 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-opencv-python = "*"
-imutils = "*"
-opencv-contrib-python = "*"
+opencv-contrib-python = "==4.4.0.46"
+requests = "*"
+scikit-image = "*"
+urllib3 = "*"
+numpy = "*"
+dlib = "*"
 
 [requires]
 python_version = "3.8"
